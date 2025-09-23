@@ -5,10 +5,10 @@
 - Chú ý thư mục mà python được cài trên máy, file cài đặt python server nên nằm cùng ổ đĩa với python trên máy. 
 
 ## Tải file cài đặt 
-- Tải file exe tại link   
-- Sau khi tải về, nhấn chuột phải chọn Rename và xoá đuôi file .abc đi, chỉ giữ lại .exe . Lúc này, file sẽ có định dạng là python_server.exe 
+- Tải file exe trong dự án này
+- Chú ý bỏ qua các tùy chọn an toàn của trình duyệt, phần mềm bảo mật trên máy tính để có thể tải được file
 
 ## Chạy file cài đặt  
-- Nháy đúp chuột hoặc chuột phải, chọn Open vào file python_server.exe để cài đặt.
+- Nháy đúp chuột hoặc chuột phải, chọn Open vào file python_server.exe để chạy file.
 ![forest](/python_server_window.png)
 - Màn hình hiện kết quả như trên là thành công, lưu ý giữ nguyên file exe trong suốt quá trình làm bài. 
